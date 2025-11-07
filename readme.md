@@ -11,7 +11,7 @@ Controls:
 - Access intro stage: Hold L, select Wily
 - Access museum stage: Hold R, select Wily
 
-Most of the work was done by blueimp87 in their [RM7 practice hack](https://github.com/BlueImp78/RM7_Practice_Hack/tree/main), I just modified it slightly
+Most of the work was done by blueimp78 in their [RM7 practice hack](https://github.com/BlueImp78/RM7_Practice_Hack/tree/main), I just modified it slightly
 
 # Usage
 Use Lunar IPS to apply rm7_bingo.ips to a Rockman 7 (J) file
