@@ -16,7 +16,7 @@ Most of the work was done by blueimp78 in their [RM7 practice hack](https://gith
 # Usage
 ** UPDATE YOUR EMULATORS TO THE LATEST VERSION!! **  
 Use Lunar IPS to apply rm7_bingo.ips to a Rockman 7 (J) ROM.  
-It is recommended to make a copy of your source file, rename it something with "bingo" in the name, then apply the IPS patch to that file. 
+It is recommended to make a copy of your source file, rename it something with "bingo" in the name, then apply the IPS patch to that file.  
 ** UPDATE YOUR EMULATORS TO THE LATEST VERSION!! **  
 
 # Troubleshooting
